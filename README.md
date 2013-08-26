@@ -1,0 +1,2 @@
+ninja-widget-default
+====================
